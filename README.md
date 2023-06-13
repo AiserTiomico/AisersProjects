@@ -1,2 +1,2 @@
-# AisersWebApp-Project
-Building a website for a bootcamp.
+# AisersProjects
+Building a website for a bootcamp and other projects
